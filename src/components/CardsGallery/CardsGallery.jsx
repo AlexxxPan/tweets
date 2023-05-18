@@ -23,6 +23,7 @@ const CardsGallery = ({ tweets, filter }) => {
   );
 };
 
+
 CardsGallery.propTypes = {
   tweets: PropTypes.array.isRequired,
   filter: PropTypes.string,
