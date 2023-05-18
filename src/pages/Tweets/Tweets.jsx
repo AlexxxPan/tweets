@@ -32,7 +32,7 @@ const Tweets = () => {
         }
       } catch (error) {
         toast.error(
-          'Sorry for the inconvenience! Please try to use our service in a few minutes!'
+          'We are very sorry for any distress! Please try to use our service later!'
         );
       }
     };

@@ -6,7 +6,7 @@ const Home = () => {
     <Container maxWidth="sm">
       <Title>Tweets</Title>
       <Description>
-        follow people…
+       Don't miss what's happening
       </Description>
       <Description>
         Join to us!
