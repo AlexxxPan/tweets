@@ -6,7 +6,7 @@ export const ButtonGoBack = styled(Link)`
   margin-top: 15px;
   display: inline-flex;
   justify-content: center;
-  background-color: #471ca9;
+  background-color: #a21ca9;
   color: #fff;
   padding: 10px 16px;
   border: none;

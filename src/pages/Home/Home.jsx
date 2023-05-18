@@ -6,11 +6,10 @@ const Home = () => {
     <Container maxWidth="sm">
       <Title>Tweets</Title>
       <Description>
-        In our application, people share their news, thoughts and complaints!
-        And you can follow them…
+        follow people…
       </Description>
       <Description>
-        Join our community faster!
+        Join to us!
         <Btn to="/tweets">Tweets</Btn>
       </Description>
     </Container>
